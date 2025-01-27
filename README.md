@@ -1,6 +1,6 @@
-# What is the Live Agent Studio?
+# Co je Live Agent Studio?
 
-The [Live Agent Studio](https://studio.ottomator.ai) is a community-driven platform developed by [oTTomator](https://ottomator.ai) for you to explore cutting-edge AI agents and learn how to implement them for yourself or your business! All agents on this platform are open source and, over time, will cover a very large variety of use cases.
+Naše platforma [AutomaticPraut](https://praut.cz) platforma vyvinutá společností [PRAUT s.r.o. ](https://praut.cz), abyste mohli prozkoumat špičkové agenty umělé inteligence a naučit se, jak je implementovat pro sebe nebo svou firmu! Všichni agenti na této platformě jsou open source a postupem času budou pokrývat velmi širokou škálu případů použití.
 
 The goal with the studio is to build an educational platform for you to learn how to do incredible things with AI, while still providing practical value so that you’ll want to use the agents just for the sake of what they can do for you!
 
